@@ -51,9 +51,11 @@ pip install secure-smtplib
 - Sharing code snippets with your team.
 - Notifying clients about updates or changes.
 - Sending invitations or event announcements.
+  
 
 ### Note
 
 Always ensure you have the necessary permissions to send emails from your email account programmatically. Some email providers might require you to enable "Less Secure Apps" or generate an "App Password" for this purpose.
+Change the file name to any other name if you encounter email module not found error.
 
 Feel free to explore and modify the script to suit your specific requirements. Happy emailing! 🚀
